@@ -1,0 +1,375 @@
+{
+  "UserInfo": [
+    {
+      "userId": "1",
+      "userName": "Isabella",
+      "profileImage": "https://www.w3schools.com/howto/img_avatar.png",
+      "email": "isabella@test.com",
+      "phone": "+2233665544",
+      "joining": "25 JAN 2008",
+      "designaton": "Project Manager",
+      "instiute": "Stanford University",
+      "degree": "Computer Science",
+      "experience": "8+",
+      "rating": "4.0",
+      "Graphs": {
+        "SoftSkills": {
+          "labels": ["Communication", "Behaviour", "Problem-solving"],
+          "data": [300, 50, 100]
+        },
+        "Absenteeism": {
+          "labels": [
+            "January",
+            "February",
+            "March",
+            "April",
+            "May",
+            "June",
+            "July"
+          ],
+          "data": [65, 59, 80, 81, 56, 55, 40]
+        },
+        "ProjectEngagement": {
+          "labels": [
+            "Car Maker",
+            "SAP",
+            "New Tree",
+            "Buy Sell",
+            "Time Traceer",
+            "Medical APP",
+            " Learning APP"
+          ],
+          "data": [60, 50, 40, 30, 20, 10, 20]
+        },
+        "TechinicalExperties": {
+          "labels": ["Angular", "Node", "DotNet"],
+          "data": [90, 20, 0, 0, 20, 10, 30]
+        },
+        "Overtime": {
+          "labels": [
+            "January",
+            "February",
+            "March",
+            "April",
+            "May",
+            "June",
+            "July"
+          ],
+          "data": [0, 1, 5, 22, 12, 20, 7]
+        }
+      },
+      "recomendation": "It was fantastic to work together with Faisal Rony, who was an excellent Project Manager. He thinks on the cutting edge of leadership motivation. Faisal Rony leads by example and many people at XYZ find his enthusiasm and dedication both inspiring and motivating."
+    },
+    {
+      "userId": "2",
+      "userName": "John Anderson",
+      "profileImage": "https://www.w3schools.com/w3images/avatar2.png",
+      "email": "john@test.com",
+      "phone": "+001122334455",
+      "joining": "25 APR 2010",
+      "designaton": "Marketing Manager",
+      "instiute": "Pace University",
+      "degree": "BBA-Management",
+      "experience": "6+",
+      "rating": "4.5",
+      "Graphs": {
+        "SoftSkills": {
+          "labels": ["Communication", "Behaviour", "Problem-solving"],
+          "data": [150, 150, 150]
+        },
+        "Absenteeism": {
+          "labels": [
+            "January",
+            "February",
+            "March",
+            "April",
+            "May",
+            "June",
+            "July"
+          ],
+          "data": [10, 9, 15, 55, 25, 36, 25]
+        },
+        "ProjectEngagement": {
+          "labels": [
+            "Find ME",
+            "SAP",
+            "Schedule",
+            "NopCommerce",
+            "Doctor Call ",
+            "Learn@Home"
+          ],
+          "data": [20, 0, 0, 20, 10, 30]
+        },
+        "TechinicalExperties": {
+          "labels": ["MSWord", "Excell", "PHP"],
+          "data": [80, 50, 25]
+        },
+        "Overtime": {
+          "labels": [
+            "January",
+            "February",
+            "March",
+            "April",
+            "May",
+            "June",
+            "July"
+          ],
+          "data": [0, 30, 0, 10, 0, 0, 22]
+        }
+      },
+      "recomendation": "It was fantastic to work together with John, who was an excellent Project Manager. He thinks on the cutting edge of leadership motivation. Faisal Rony leads by example and many people at XYZ find his enthusiasm and dedication both inspiring and motivating."
+    },
+    {
+      "userId": "3",
+      "userName": "William James",
+      "profileImage": "https://www.w3schools.com/howto/img_avatar.png",
+      "email": "james@test.com",
+      "phone": "+00110034455",
+      "joining": "25 APR 2014",
+      "designaton": "Executive Director",
+      "instiute": "Hofstra University",
+      "degree": "BBA-Economics",
+      "experience": "13+",
+      "rating": "4",
+      "Graphs": {
+        "SoftSkills": {
+          "labels": ["Communication", "Behaviour", "Problem-solving"],
+          "data": [100, 800, 10]
+        },
+        "Absenteeism": {
+          "labels": [
+            "January",
+            "February",
+            "March",
+            "April",
+            "May",
+            "June",
+            "July"
+          ],
+          "data": [10, 25, 35, 0, 0, 20, 40]
+        },
+        "ProjectEngagement": {
+          "labels": [
+            "Find ME",
+            "SAP",
+            "Schedule",
+            "NopCommerce",
+            "Doctor Call ",
+            "Learn@Home"
+          ],
+          "data": [20, 10, 30, 20, 0, 0]
+        },
+        "TechinicalExperties": {
+          "labels": ["MSWord", "Excell", "PHP"],
+          "data": [80, 10, 40]
+        },
+        "Overtime": {
+          "labels": [
+            "January",
+            "February",
+            "March",
+            "April",
+            "May",
+            "June",
+            "July"
+          ],
+          "data": [0, 0, 22, 0, 30, 0, 10]
+        }
+      },
+      "recomendation": "It was fantastic to work together with James, who was an excellent Project Manager. He thinks on the cutting edge of leadership motivation. Faisal Rony leads by example and many people at XYZ find his enthusiasm and dedication both inspiring and motivating."
+    },
+    {
+      "userId": "4",
+      "userName": "David Willam",
+      "profileImage": "https://www.w3schools.com/howto/img_avatar.png",
+      "email": "davida@test.com",
+      "phone": "+2233665544",
+      "joining": "25 JAN 2008",
+      "designaton": "Project Manager",
+      "instiute": "Stanford University",
+      "degree": "Computer Science",
+      "experience": "8+",
+      "rating": "4.0",
+      "Graphs": {
+        "SoftSkills": {
+          "labels": ["Communication", "Behaviour", "Problem-solving"],
+          "data": [300, 50, 100]
+        },
+        "Absenteeism": {
+          "labels": [
+            "January",
+            "February",
+            "March",
+            "April",
+            "May",
+            "June",
+            "July"
+          ],
+          "data": [65, 59, 80, 81, 56, 55, 40]
+        },
+        "ProjectEngagement": {
+          "labels": [
+            "Car Maker",
+            "SAP",
+            "New Tree",
+            "Buy Sell",
+            "Time Traceer",
+            "Medical APP",
+            " Learning APP"
+          ],
+          "data": [20, 10, 30, 90, 20, 0, 0]
+        },
+        "TechinicalExperties": {
+          "labels": ["Angular", "Node", "DotNet"],
+          "data": [90, 20, 0, 0, 20, 10, 30]
+        },
+        "Overtime": {
+          "labels": [
+            "January",
+            "February",
+            "March",
+            "April",
+            "May",
+            "June",
+            "July"
+          ],
+          "data": [0, 1, 5, 22, 12, 20, 7]
+        }
+      },
+      "recomendation": "It was fantastic to work together with Faisal Rony, who was an excellent Project Manager. He thinks on the cutting edge of leadership motivation. Faisal Rony leads by example and many people at XYZ find his enthusiasm and dedication both inspiring and motivating."
+    },
+    {
+      "userId": "5",
+      "userName": "Merry",
+      "profileImage": "https://www.w3schools.com/w3images/avatar6.png",
+      "email": "mery@test.com",
+      "phone": "+002982334455",
+      "joining": "05 Mar 2000",
+      "designaton": "Business Analysist",
+      "instiute": "Hofstra University",
+      "degree": "BBA-Management",
+      "experience": "6+",
+      "rating": "4.5",
+      "Graphs": {
+        "SoftSkills": {
+          "labels": ["Communication", "Behaviour", "Problem-solving"],
+          "data": [150, 150, 150]
+        },
+        "Absenteeism": {
+          "labels": [
+            "January",
+            "February",
+            "March",
+            "April",
+            "May",
+            "June",
+            "July"
+          ],
+          "data": [10, 9, 15, 55, 25, 36, 25]
+        },
+        "ProjectEngagement": {
+          "labels": [
+            "Find ME",
+            "SAP",
+            "Schedule",
+            "NopCommerce",
+            "Doctor Call ",
+            "Learn@Home"
+          ],
+          "data": [20, 0, 0, 20, 10, 30]
+        },
+        "TechinicalExperties": {
+          "labels": ["MSWord", "Excell", "PHP"],
+          "data": [80, 50, 25]
+        },
+        "Overtime": {
+          "labels": [
+            "January",
+            "February",
+            "March",
+            "April",
+            "May",
+            "June",
+            "July"
+          ],
+          "data": [0, 30, 0, 10, 0, 0, 22]
+        }
+      },
+      "recomendation": "It was fantastic to work together with John, who was an excellent Project Manager. He thinks on the cutting edge of leadership motivation. Faisal Rony leads by example and many people at XYZ find his enthusiasm and dedication both inspiring and motivating."
+    }
+  ],
+  "Experiences": [
+    {
+      "companyName": "Demo1 Technologies",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg",
+      "url": "https://www.google.com/",
+      "roles": [
+        {
+          "title": "Full Stack Developer",
+          "description": "Built and updated various Chrome Extensions.",
+          "startDate": "2017-01-01",
+          "endDate": "2017-05-01",
+          "location": "New York, USA"
+        }
+      ]
+    },
+    {
+      "companyName": "Demo2 Technologies",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg",
+      "url": "https://www.google.com/",
+      "roles": [
+        {
+          "title": "UI Designer",
+          "description": "Design user-fridendly web page",
+          "startDate": "2016-05-01",
+          "endDate": "2016-09-01",
+          "location": "Beijing, China"
+        }
+      ]
+    }
+  ],
+  "Skills": [
+    {
+      "Area": "Programming Language",
+      "SkillSet": [
+        {
+          "Name": "Java",
+          "Hot": true
+        },
+        {
+          "Name": "C#",
+          "Hot": false
+        },
+        {
+          "Name": "Python",
+          "Hot": false
+        }
+      ]
+    },
+    {
+      "Area": "Web-Based Application Development",
+      "SkillSet": [
+        {
+          "Name": "JavaScript (ES5, ES6)",
+          "Hot": true
+        },
+        {
+          "Name": "TypeScript",
+          "Hot": false
+        },
+        {
+          "Name": "HTML5",
+          "Hot": true
+        },
+        {
+          "Name": "CSS (SCSS/SASS)",
+          "Hot": true
+        },
+        {
+          "Name": "React",
+          "Hot": true
+        }
+      ]
+    }
+  ]
+}
