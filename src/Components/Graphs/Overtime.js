@@ -20,8 +20,8 @@ function Overtime(props) {
   data.datasets[0].data = Overtime.data;
   return (
     <div>
-      <h2 className="text-muted">Average overtime per month</h2>
       <Bar data={data} />
+      <h5 className="text-muted center">Overtime per month</h5>
     </div>
   );
 }

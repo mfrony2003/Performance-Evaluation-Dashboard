@@ -20,8 +20,8 @@ function ProjectEngagement(props) {
   data.datasets[0].data = ProjectEngagement.data;
   return (
     <div>
-      <h2 className="text-muted">Project Engagement</h2>
       <HorizontalBar data={data} />
+      <h5 className="text-muted center">Project Engagement</h5>
     </div>
   );
 }

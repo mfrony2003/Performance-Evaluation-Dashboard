@@ -7,8 +7,18 @@ import {
   faUniversity,
   faEnvelope,
   faPhone,
+  faSearch,
+  faHandPointLeft,
 } from "@fortawesome/free-solid-svg-icons";
-library.add(faAddressCard, faCalendar, faUniversity, faEnvelope, faPhone);
+library.add(
+  faAddressCard,
+  faCalendar,
+  faUniversity,
+  faEnvelope,
+  faPhone,
+  faSearch,
+  faHandPointLeft
+);
 
 export default function FontAwesomeIconFooter(props) {
   const {
@@ -23,16 +33,16 @@ export default function FontAwesomeIconFooter(props) {
       <div className="d-flex justify-content-between box-font-medium">
         <div className="col-md-12 stats">
           <span className="row">
-            <div className="col-md-2 stats">
+            <div className="mr-2 stats">
               <FontAwesomeIcon icon={["fa", firstIcon]} />
             </div>
-            <div className="col-md-10 stats">{firstIconText} </div>
+            <div className="  stats">{firstIconText} </div>
           </span>
           <span className="row">
-            <div className="col-md-2 stats">
+            <div className="mr-2 stats">
               <FontAwesomeIcon icon={["fa", secondIcon]} />
             </div>
-            <div className="col-md-10 stats">{secondIconText}</div>
+            <div className="  stats">{secondIconText}</div>
           </span>
         </div>
       </div>

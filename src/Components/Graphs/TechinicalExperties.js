@@ -18,8 +18,8 @@ function TechinicalExperties(props) {
   data.datasets[0].data = TechinicalExperties.data;
   return (
     <div>
-      <h2 className="text-muted">Technical Experties</h2>
       <Pie data={data} />
+      <h5 className="text-muted center">Technical Experties</h5>
     </div>
   );
 }

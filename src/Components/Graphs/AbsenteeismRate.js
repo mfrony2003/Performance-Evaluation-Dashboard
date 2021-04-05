@@ -40,8 +40,8 @@ export default class AbsenteeismRate extends React.Component {
 
     return (
       <div>
-        <h2 className="text-muted">Absenteeism Rate</h2>
         <Line data={GraphData} />
+        <h5 className="text-muted center">Absenteeism Rate</h5>
       </div>
     );
   }

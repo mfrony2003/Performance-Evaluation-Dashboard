@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import * as graphs from ".";
 
 function Graph(props) {
-  const [currentValue, selectValue] = useState(props.init);   
+  const [currentValue, selectValue] = useState(props.init);
 
   const handleChange = (e) => {
     selectValue(e.target.value);
@@ -16,12 +16,12 @@ function Graph(props) {
     <div className="card">
       <div className="content">
         <div className="head">
-          <div className="row">
-            <div className="col-sm-6 col-md-6 col-lg-6">
-              <h5 className="text-muted">Select The Report</h5>
-            </div>
-            <div className="col-sm-6 col-md-6 col-lg-6">
-              <div className="canvas-wrapper">
+          <div className="wrapper">
+            <span className="wrapper">
+              <h5 className="text-muted">Select Report</h5>
+            </span>
+            <span>
+              <div className="wrapper">
                 <select
                   className="selectOption"
                   value={currentValue}
@@ -35,7 +35,7 @@ function Graph(props) {
                   </option>
                 </select>
               </div>
-            </div>
+            </span>
           </div>
           {seleceCardLoad()}
         </div>
