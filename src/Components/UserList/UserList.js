@@ -17,7 +17,7 @@ export default function UserList(props) {
     <>
       <div className="container">
         <div className="row">
-          <div className="col-sm-12 d-block d-sm-none">
+          <div className="col-sm-12 d-block d-sm-none ">
             <a
               className="navbar-toggle"
               type="button"
@@ -54,7 +54,7 @@ export default function UserList(props) {
 
       <div className="container">
         <div className="row">
-          <aside className="sidebar  d-none d-xl-block">
+          <aside className="sidebar  d-none d-xl-block d-none d-sm-block d-md-none">
             <div className="dynamicDiv" id="dd.0.4.0">
               <div className="sidebar-wrapper">
                 <nav>
