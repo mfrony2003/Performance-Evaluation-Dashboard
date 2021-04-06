@@ -65,12 +65,14 @@ Measuring employee performance is a very important aspect of HR functions. It Gi
 
 5. if you want to run on different port add port on webpack.config.js
 
-   ```
+   <pre>
+   <code>
        devServer: {
        contentBase: "./dist",
-       port: 9000,
+     <b>  port: 9000,</b>
                },
-   ```
+  </code>
+   </pre>
 
 ## Live Demo
 
