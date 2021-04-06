@@ -45,15 +45,14 @@ function Dashboard() {
                     </div>
                   </div>
 
-                  
                   <div className="row">
-                    <div className="col-sm-2 col-md-2 col-lg-2">
+                    <div className="col-sm-2 col-md-2 col-lg-2 mb-2">
                       <UserList
                         userInfo={userInfo}
                         onUserSelect={getSelectUserId}
                       />
                     </div>
-                    <div className="col-10">
+                    <div className="col-10 container">
                       <div className="row">
                         <div className="col-sm-6 col-md-6 col-lg-3">
                           <Profile userInfo={selectedUser} />
