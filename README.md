@@ -17,7 +17,6 @@
     </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
 
@@ -25,7 +24,7 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+![Performance-Evaluation-Dashboard](https://github.com/mfrony2003/Performance-Evaluation-Dashboard/blob/main/EvaluationDashBoard.jpg)(https://mfrony2003.github.io/Performance-Evaluation-Dashboard/)
 
 Simple project build using reactjs.Its a conceptual model of a performance evaluation dashboard
 Measuring employee performance is a very important aspect of HR functions. It Gives you an overall impression of the performance of the employees by analyzing three main metric types – Absenteeism, Overtime Hours per month and Technical Expertise . Also can write your recommendation.
