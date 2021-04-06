@@ -15,7 +15,7 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
+    <li><a href="#livedemo">Livedemo</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
@@ -65,14 +65,14 @@ Measuring employee performance is a very important aspect of HR functions. It Gi
 
 5. if you want to run on different port add port on webpack.config.js
 
-   <pre>
-   <code>
-       devServer: {
-       contentBase: "./dist",
-     <b>  port: 9000,</b>
-               },
-  </code>
-   </pre>
+ <pre>
+ <code>
+     devServer: {
+     contentBase: "./dist",
+   <b>  port: 9000,</b>
+             },
+</code>
+ </pre>
 
 ## Live Demo
 
