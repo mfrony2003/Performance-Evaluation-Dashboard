@@ -15,7 +15,7 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#livedemo">Livedemo</a></li>
+    <li><a href="#live demo">Livedemo</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
